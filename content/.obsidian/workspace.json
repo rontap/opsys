@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Gyakorlat 4..md",
+                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Gyakorlat 4..md",
+                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Gyakorlat 4..md",
+                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Gyakorlat 4..md"
+                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md"
               }
             }
           }
@@ -208,11 +208,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f4d824fdded6b2fa",
+  "active": "557a388c2ebe49b4",
   "lastOpenFiles": [
+    "Gyakorlatok/Gyakorlat 2. Strings, Open, Fopen, Fork.md",
+    "Példa ZH.md",
+    "Operációs Rendszerek Gyakorlat.md",
+    "Headerek.md",
+    "Beadandók.md",
+    "Tananyagok/bead.md",
     "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
     "private/Gyakorlat 4..md",
-    "Gyakorlatok/Gyakorlat 2. Strings, Open, Fopen, Fork.md",
     "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
     "private/Gyakorlat 7..md",
     "private/Gyakorlat 11..md",
@@ -228,17 +233,12 @@
     "Órai file-ok/Gyakorlat1-2/file.c",
     "Órai file-ok/Gyakorlat1-2/directory.c",
     "Órai file-ok/Gyakorlat1-2/arg.c",
-    "Példa ZH.md",
-    "Operációs Rendszerek Gyakorlat.md",
-    "Headerek.md",
     "C vs C++.md",
-    "Beadandók.md",
     "[[Operációs.md",
     "Operációs.md",
     "Miért.md",
     "zzResources",
     "zzResources/Pasted image 20240131222558.jpg",
-    "Tananyagok/bead.md",
     "Órai file-ok/Gyakorlat1-2/Untitled.md",
     "Órai file-ok/Gyakorlat1-2",
     "Órai file-ok",
