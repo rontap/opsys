@@ -1,0 +1,107 @@
+# Opsys Gyakorlat
+
+## Linkek
+
+[Canvas](https://canvas.elte.hu/courses/35103)
+
+[Tárgy Honlapja](https://opsys.inf.elte.hu/)
+
+## Adatok
+
+Tárgy neve: Operációs Rendszerek Ea+Gy  
+Előadó, Tárgyfelelős, ZH-k és beadandók készítése: Dr Illés Zoltán ( illes@inf.elte.hu ) \
+Gyakorlatvezető, Beadandók javítása: Tatai __Áron__ Péter ( g07zoe@inf.elte.hu )
+
+## Időpontok
+
+17.-es kurzus : K:12:00-13:00 (LD 00-503)  _tényleges tervezett időpont: 12:05:12:55_
+
+18.-as kurzus : K:13:00-14:00 (LD 00-503)  _tényleges tervezett időpont: 13:05:13:55_
+
+# Tanterv
+
+## Órák
+
+Az egyes órák anyagát a linkre kattintva lehet megnézni.
+
+1. óra : [Környezet beállítása](Gyakorlat%201.11.md) 
+2. óra : [Ismétlés](Gyakorlat%201..md) (gy0)
+3. óra : [Fork](Gyakorlat%203..md) (gy1)
+4. óra : [Fork & Basic Signal](Gyakorlat%204..md) (gy2)
+5. óra : [Feladatmegoldás, Signal Timer, Sigaction](Gyakorlat%205..md) (gy2)
+6. óra : [Signal Timer, Pipe](Gyakorlat%206..md) (gy2 & gy3)
+7. óra : [Pipe, FIFO](Gyakorlat%207..md) (gy3)
+8. óra : [System V Message Queue & POSIX Message Queue](Gyakorlat%208..md) (gy4)
+9. óra : [Ismétlés](Gyakorlat%209..md) - nincs új gyakorlati file
+10. óra : [Shared Memory + Semaphore (gy5)](Gyakorlat%2010..md) _!! Rákövetkező héten hétfőn Elméleti ZH_
+11. óra : [Shared Memory + Semaphore (gy6)](Gyakorlat%2011..md) _!! Rákövetkező héten hétfőn Gyakorlati ZH_
+12. óra : Konzultáció, ZH átnézés, lezárás
+13. óra : Beadandó Bemutatás
+
+## Letöltések
+
+0 Ismétlés
+Anyaga: [Gy0](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy0-revision/gy0-opsys.zip)
+
+1 Fork [Gy1](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy1/gy1-opsys.zip)
+
+2 Kill, Signal etc [Gy2](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy2/gy02.zip)
+
+3 [Gy3](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy3/gy03.zip)
+
+4 [Gy3](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy4/gy04.zip)
+
+5 [Shared Memory](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy5/gy05.zip)
+
+6 [Szemafor Memory](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy6/gy06.zip)
+
+[API Összefoglaló PDF](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/OPSYS_summary_p1.pdf)
+
+Órai felvételek: Teams - fileok
+
+## Számonkérés & Követelmények
+
+### 2 db beadandó.
+
+- [Az első beadandó](bead.md) az első pár óra anyagából.
+- [A második beadandó](bead.md)  az első beadandó továbbfejlesztve.   
+  A működő és helyes beadandók kellenek a tárgy teljesítéséhez.  
+  A beadandót beadás után majd meg kell védeni online,  
+  ahol egyszerű elméleti kérdések is fel lesznek téve a
+  használt kóddal kapcsolatban.
+- A beadandóra jegyet nem kapsz.
+- A védés nagyjából 10-15 percig tart.
+
+### 2 db ZH.
+
+1. Évolyam ZH elméleti, az előadás idejében, 90 perc. Canvas kvíz formájában.
+2. Gyakorlat ZH kódolós, az előadás idejében, 90 perc. Online.
+
+### Értékelés
+
+Jegy a következő képpen számolódik:  
+`jegy = kerekítés( (elméleti_ZH + gyakorlati_ZH ) / 2 ) - késve_beadott_beadandó`
+
+#### Kerekítés
+
+Ha az alábbiak közül legalább egyet teljesítesz:
+
+- Beadandók alapvető követelményeken túl igényesen írod meg. _(Órán erről részletesen majd beszélünk)_
+- Az órát követed, van látható órai munkád.
+- Aktívan részt veszel az órán; válaszolsz kérdésekre és esetleg te is kérdezel.
+
+Akkor felfele kerekítem a két ZH átlagát.
+
+#### Késve vagy hibásan beadadott beadandó
+
+- Határidő után, de maximum 1 héttel késett feltöltés 1 jegy levonást jelent.
+    - A határidő előtt a kérheted a határidő 2 hétre való hosszabbítását.
+    - Ha addig sem töltesz fel beadandót, és nem is szólsz róla, akkor nem kaphatsz gyakorlati jegyet!
+- A rosszul működő beadandó javításra lesz visszaküldve, de ez a kapott jegyet ez nem
+  befolyásolja.
+- Ha a több mint két hetet késel bármelyik beadandóddal, vagy a ZH-kat (és pótZH-kat) sem írtad meg, akkor nem
+  kaphatsz jegyet (azaz 'nincs érdemjegye' kerül be neptunba).
+- Ha a mindkét beadandódat késve adtad be, akkor is **csak egy jegy levonás jár**.
+
+---
+`eof`

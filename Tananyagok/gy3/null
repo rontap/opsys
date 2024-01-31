@@ -1,0 +1,9 @@
+a.out
+libopsys.h
+nevcso.c
+null
+pipe.c
+pipe_0.c
+poll_cso.c
+ppoll.cso.c
+sel_cso.c
