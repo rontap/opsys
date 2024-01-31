@@ -2,7 +2,7 @@
 # Második Beadndó
 
 ---
-[Kezdőlap](index.md)
+[Kezdőlap](Operációs%20Rendszerek%20Gyakorlat.md)
 
 ---
 Az "Igyál komám" szőlészetben is kopogtat a tavasz. Mint tudjuk a szőlő szereti a gondoskodást, a munkát, de leginkább a
@@ -32,7 +32,7 @@ C++ kód esetén plusz feltételek vannak a kóddal kapcsolatban, a gyakorlat te
 # Első Beadndó
 
 ---
-[Kezdőlap](index.md)
+[Kezdőlap](Operációs%20Rendszerek%20Gyakorlat.md)
 
 |
 
@@ -65,6 +65,6 @@ A megoldást a beadási határidőt követő héten be kell mutatni a gyakorlatv
 **Beadási határidő: 2023 április 10.**
 
 ---
-[Kezdőlap](index.md)
+[Kezdőlap](Operációs%20Rendszerek%20Gyakorlat.md)
 
 |

@@ -3,7 +3,8 @@
 //call it with some parameters from the command line 
 
 int main(int argc, char **argv)
-//char** means an array of character arrays = array of strings
+//int argc = argument count
+//char **argv = argument values. array of array of characters. ( argv[][] )
 {
     int i;
     printf("Number of command line arguments are: %i\n", argc);

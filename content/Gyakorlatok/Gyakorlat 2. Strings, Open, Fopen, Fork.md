@@ -2,16 +2,12 @@
 
 ## Óra Outline
 
-- [ ]  Adminsztráció, A tárgyról röviden, jelenlét `5p`
-- [ ]  C és POSIX/UNIX-ról `5p`
-- [ ]  Interaktív: Mit tudunk a C-ről? Manpages, gcc `5p`
-- [ ]  Pointerek recap + Bináris vagy, és `10p`
 - [ ]  `strings.c 10p` malloc, pointer magic, strlen
 - [ ]  `open_fopen.c 5p` FILE* gets, puts
 - [ ]  `arg.c, directory.c 5p` char**
 - [ ]  `file.c 5p` improve code
 
-
+---
 # C Ismétlés
 
 ## [Fileok letöltése](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy0-revision/gy0-opsys.zip)
@@ -25,13 +21,6 @@
 ```
 
 
-## Órai Munka
+# 🚧 Work in Progress
 
-- `file.c` -ben az file írást átírni `size_t` használhatára
-- `libopsys.h` feltöltése
-
-[Kezdőlap](index.md)
-|
-[Vissza](Gyakorlat%201.11.md)
-|
-[Tovább](Gyakorlat%203..md)
+#TODO

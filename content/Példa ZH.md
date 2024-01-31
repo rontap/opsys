@@ -1,18 +1,18 @@
 ## ZH Időpontok
 
-Az első elméleti dolgozat ideje: 2023 május 8, 16 óra (Nappali BSC).   
+Az első elméleti dolgozat ideje **tavaly**: 2023 május 8, 16 óra (Nappali BSC).   
 A dolgozatot Canvas rendszerben kapott elméleti kérdéssor megválaszolásával lehet teljesíteni .  
 Az elméleti dolgozat(kvíz) 20 kérdésből áll, aminek megválaszolására 20 perc áll rendelkezésre.
 10 helyes választól sikeres a ZH.
 
-A második, gyakorlati dolgozat ideje: 2023 május 15. 16 óra (Nappali BSC)
+A második, gyakorlati dolgozat ideje **tavaly**:: 2023 május 15. 16 óra (Nappali BSC)
 Tanár
 A dolgozat 90 perces.  
 A gyakorlati zárthelyi feladatát a feladatok között lehet majd olvasni, és fájlfeltöltéssel a megoldást feltölteni.
 
 PótZH tervezett időpont:  
-Elméleti PótZH időpont: 2023 május 22 . 16 óra. Helyszín: Canvas
-Gyakorlati PótZH időpont: 2023 május 25. 17.45 óra .
+Elméleti PótZH időpont: **tavaly**: 2023 május 22 . 16 óra. Helyszín: Canvas
+Gyakorlati PótZH időpont: **tavaly**: 2023 május 25. 17.45 óra .
 
 ## Példa ZH
 

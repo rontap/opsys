@@ -1,8 +1,18 @@
+### Óra Outline
+
+- [ ] Adminsztráció, A tárgyról röviden, jelenlét `5p`
+- [ ] WSL telepítése és tesztkód futtatása.
+- [ ] C és POSIX/UNIX-ról `5p`
+- [ ] Interaktív: Mit tudunk a C-ről? Manpages, gcc `5p`
+- [ ] `arg.c`  arguments
+- [ ] Pointerek recap + Bináris vagy, és `10p`
+
+---
 ## 1. Fordító telepítése
 
 Unix-Szerű környezet (Linux, MacOS, WSL) kell
 a tárgy feladatainak a megoldásához.  
-A gyakorlatokon `C`-ben fogunk programozni.   
+A gyakorlatokon `C`-ben fogunk programozni.   [[C vs C++|Miért nem C++ ?]]
 Ehhez szűkséges a `gcc` fordító csomag felrakása.
 
 ### Linux & Mac
@@ -78,18 +88,18 @@ int main() {
 OS/X-en pedig:
 
 ```shell
- clang -Wall -Werror=vla -pthread -std=c11 -pedantic -o a.out ./test.c && ./a.out
+ clang -Wall -Werror=vla -std=c11 -pedantic -o a.out ./test.c && ./a.out
 ```
 
 Ha WSL-ben nem sikerül a gcc-t használni, futtassátok ezt:
+
 ```shell
 sudo apt upgrade
 sudo apt update
 sudo apt install gcc manpages-dev manpages-posix-dev
 ```
 
-Ha mindenféle hiba nélkül egy sima hello world-öt láttok, **akkor kész vagytok**, a gyakorlat anyagát tudjátok majd
-saját gépen is követni.  
+Ha mindenféle hiba nélkül egy sima hello world-öt láttok, **akkor kész vagytok**, a gyakorlat anyagát tudjátok majd saját gépen is követni.  
 **Ha a kód nem fordul, írjatok teams-en és próbálok segíteni.**
 
 
