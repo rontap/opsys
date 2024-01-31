@@ -26,7 +26,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+	Component.Explorer({
+  title: "Navigáció", // title of the explorer component
+  folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+  folderDefaultState: "open", // default state of folders ("collapsed" or "open")
+  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+  // Sort order: folders first, then files. Sort folders and files alphabetically
+  filterFn: ()=>true,
+ 
+  // what order to apply functions in
+  order: ["filter", "map", "sort"],
+})
+	),
   ],
   right: [
     Component.Graph(),
@@ -47,3 +59,4 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
