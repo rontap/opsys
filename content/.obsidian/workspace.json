@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operációs Rendszerek Gyakorlat.md",
+                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
+                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "6be393bbc8c3d128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operációs Rendszerek Gyakorlat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9e4aad29a56ae072",
             "type": "leaf",
             "state": {
@@ -79,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "C++",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
+                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
+                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md"
+                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md"
               }
             }
           }
@@ -208,45 +195,45 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "557a388c2ebe49b4",
+  "active": "13d6987313f6b437",
   "lastOpenFiles": [
-    "Gyakorlatok/Gyakorlat 2. Strings, Open, Fopen, Fork.md",
-    "Példa ZH.md",
-    "Operációs Rendszerek Gyakorlat.md",
+    "Órai file-ok/Gyakorlat1-2/arg.c",
     "Headerek.md",
+    "Órai file-ok/Gyakorlat2-3/a.out",
+    "Órai file-ok/Gyakorlat2-3/libopsys.h",
+    "Órai file-ok/Gyakorlat2-3/fork.c",
+    "Órai file-ok/Gyakorlat2-3/fcntl_0.c",
+    "Órai file-ok/Gyakorlat2-3/fcntl.c",
+    "Órai file-ok/Gyakorlat2-3/exec.c",
+    "Órai file-ok/Gyakorlat2-3/write.c",
+    "Órai file-ok/Gyakorlat2-3/system.c",
+    "Órai file-ok/Gyakorlat2-3/rand.c",
+    "Órai file-ok/Gyakorlat2-3/multiple.c",
+    "index.md",
     "Beadandók.md",
-    "Tananyagok/bead.md",
-    "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
-    "private/Gyakorlat 4..md",
+    "Példa ZH.md",
     "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
+    "private/C vs C++.md",
+    "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
+    "Gyakorlatok/Gyakorlat 2. Strings, Open, Fopen, Fork.md",
+    "Tananyagok/bead.md",
+    "private/Gyakorlat 4..md",
     "private/Gyakorlat 7..md",
     "private/Gyakorlat 11..md",
     "private/Gyakorlat 6..md",
     "private/Gyakorlat 8..md",
     "private/Gyakorlat 9..md",
     "private/Gyakorlat 10..md",
-    "Órai file-ok/Gyakorlat1-2/strings.c",
     "secrets/secr.md",
-    "Órai file-ok/Gyakorlat1-2/libopsys.h",
-    "Órai file-ok/Gyakorlat1-2/ptr_bin.c",
-    "Órai file-ok/Gyakorlat1-2/open_fopen.c",
-    "Órai file-ok/Gyakorlat1-2/file.c",
-    "Órai file-ok/Gyakorlat1-2/directory.c",
-    "Órai file-ok/Gyakorlat1-2/arg.c",
-    "C vs C++.md",
     "[[Operációs.md",
     "Operációs.md",
     "Miért.md",
-    "zzResources",
     "zzResources/Pasted image 20240131222558.jpg",
     "Órai file-ok/Gyakorlat1-2/Untitled.md",
-    "Órai file-ok/Gyakorlat1-2",
-    "Órai file-ok",
     "Gyakorlatok/Gyakorlat 1.11.md",
     "quartz/node_modules/vfile-location/node_modules/@types/unist/README.md",
     "quartz/node_modules/vfile/node_modules/@types/unist/README.md",
     "quartz/node_modules/unist-util-visit/node_modules/@types/unist/README.md",
-    "quartz/node_modules/unist-util-remove-position/node_modules/@types/unist/README.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",

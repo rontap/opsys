@@ -37,9 +37,9 @@ void use_fopen_bin(char *fname) {
         exit(1);
     }
     char c; //instead of char, you can use any other type, struct as well
-    while (!feof(f)) {
-        fread(&c, sizeof(c), sizeof(c), f); //use fwrite for writing
-        printf("%c", c);
+    while (fread(&c, sizeof(c), sizeof(c), f) == 1) {
+        //use fwrite for writing
+        printf("%c (%c)", c, feof(f));
     }
     printf("\n");
     fseek(f, 0, SEEK_SET); //position to the first character, SEEK_SET,SEEK_CUR,SEEK_END

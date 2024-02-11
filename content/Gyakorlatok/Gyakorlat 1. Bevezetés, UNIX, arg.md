@@ -12,7 +12,7 @@
 
 Unix-Szerű környezet (Linux, MacOS, WSL) kell
 a tárgy feladatainak a megoldásához.  
-A gyakorlatokon `C`-ben fogunk programozni.   [[C vs C++|Miért nem C++ ?]]
+A gyakorlatokon `C`-ben fogunk programozni.   
 Ehhez szűkséges a `gcc` fordító csomag felrakása.
 
 ### Linux & Mac

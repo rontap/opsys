@@ -38,7 +38,7 @@ int main(int argc, char **argv) {
         printf("%c", c);
         size_t res = fwrite(&c, sizeof(c), sizeof(c), g);
         if (res != 1) {
-            perror("There is a mistake in writing\n");
+            perror("An error occurred while writing\n");
             exit(1);
         }
     }

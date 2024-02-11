@@ -1,14 +1,14 @@
 
 ## 1. Beadandó
 
-Várható kiadási idő: 3. hét után
+Várható kiadási idő: 4. hét után
 
 ## 2. Beadandó
 
-Várható kiadási idő: legalább 6. hét után
+Várható kiadási idő: legalább 7. hét után
 
 
-A számonkérésről részletesebben [[Operációs Rendszerek Gyakorlat#Számonkérés & Követelmények]]
+A számonkérésről részletesebben [[index#Számonkérés & Követelmények]]
 #### Késve vagy hibásan beadadott beadandó
 
 - Határidő után, de maximum 1 héttel késett feltöltés 1 jegy levonást jelent.
@@ -78,7 +78,5 @@ módosítani, vagy egy újabb napi buszindítást kezdeni.)
 
 Készítsen C nyelvű programot ami ezt a feladatot megoldja, egy Linux rendszeren kell futnia. A megoldást a beadási határidőt követő héten be kell mutatni a
 gyakorlatvezetőnek.
-
-C++ kód esetén plusz feltételek vannak a kóddal kapcsolatban, a gyakorlat teams-én megtalálható.
 
 **EZ EGY KORÁBBI BEADANDÓ**

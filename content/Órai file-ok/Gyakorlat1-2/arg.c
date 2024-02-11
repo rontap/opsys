@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-//call it with some parameters from the command line 
+// call it with some parameters from the command line like this
+// ./a.out arg1 arg2 arg3
 
 int main(int argc, char **argv)
 //int argc = argument count
