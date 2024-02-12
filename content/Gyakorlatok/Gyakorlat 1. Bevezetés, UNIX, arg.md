@@ -66,6 +66,13 @@ Természetesen olyan IDE-t használtok, amit szeretnétek. Ez már csak személy
 
 ## 3. Ellenőrzés
 
+A WSL-t telepítés után simán a `wsl` paranccsal tudjátok elindítani egy parancssorból.
+
+A file-okat már a windows-on belüli szövegszerkesztőn keresztül tudjátok megnyitni, de a WSL-el ből tudjátok futtatni.
+
+```shell
+cd /mnt/c
+```
 Nézzétek meg, hogy tudtok-e ténylegesen kódot fordítani, például hozzatok létre egy `test.c` file-t ezzel a tartalommal:
 
 ```c
@@ -91,7 +98,7 @@ OS/X-en pedig:
  clang -Wall -Werror=vla -std=c11 -pedantic -o a.out ./test.c && ./a.out
 ```
 
-Ha WSL-ben nem sikerül a gcc-t használni, futtassátok ezt:
+Ha WSL-ben nem sikerül a gcc-t használni, futtassátok ezt WSL-en belül:
 
 ```shell
 sudo apt upgrade

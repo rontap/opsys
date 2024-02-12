@@ -8,7 +8,7 @@ Várható kiadási idő: 4. hét után
 Várható kiadási idő: legalább 7. hét után
 
 
-A számonkérésről részletesebben [[index#Számonkérés & Követelmények]]
+A számonkérésről részletesebben [[Kezdőlap#Számonkérés & Követelmények]]
 #### Késve vagy hibásan beadadott beadandó
 
 - Határidő után, de maximum 1 héttel késett feltöltés 1 jegy levonást jelent.
