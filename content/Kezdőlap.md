@@ -29,7 +29,7 @@ Gyakorlatvezető, Beadandók javítása, kérdések: Tatai __Áron__ Péter ( g0
 Az egyes órák anyagát a linkre kattintva lehet megnézni.
 
 1. óra : [[Gyakorlat 1. Bevezetés, UNIX, arg]] 
-2. óra : [[Gyakorlat 2. Strings, Open, Fopen, Fork]]
+2. óra : [[Gyakorlat 2. Pointerek, Fork]]
 3. óra : Fork & Signal
 4. óra : Signal Timer
 5. óra : Sigaction
