@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
+                "file": "Példa ZH.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
+                "file": "Példa ZH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
+                "file": "Példa ZH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md"
+                "file": "Példa ZH.md"
               }
             }
           }
@@ -197,23 +197,26 @@
   },
   "active": "13d6987313f6b437",
   "lastOpenFiles": [
-    "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
+    "Órai file-ok",
+    "code/Gyakorlat2-3/rand.c",
+    "code/Gyakorlat2-3/libopsys.h",
+    "code/Gyakorlat2-3/fcntl_0.c",
+    "code/Gyakorlat2-3/fcntl.c",
+    "code/Gyakorlat2-3/directory.c",
+    "code/Gyakorlat2-3/a.out",
+    "code/Gyakorlat1-2/write.c",
+    "code/Gyakorlat1-2/system.c",
+    "code/Gyakorlat1-2/strings.c",
+    "code/Gyakorlat1-2/ptr_bin.c",
+    "index.md",
+    "Gyakorlatok/Gyakorlat 2. Pointerek, Fork.md",
+    "Kezdőlap.md",
+    "Példa ZH.md",
     "Gyakorlatok/Gyakorlat 2. Strings, Open, Fopen, Fork.md",
     "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
-    "Kezdőlap.md",
-    "Órai file-ok/Gyakorlat1-2/arg.c",
+    "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
     "Headerek.md",
-    "Órai file-ok/Gyakorlat2-3/a.out",
-    "Órai file-ok/Gyakorlat2-3/libopsys.h",
-    "Órai file-ok/Gyakorlat2-3/fork.c",
-    "Órai file-ok/Gyakorlat2-3/fcntl_0.c",
-    "Órai file-ok/Gyakorlat2-3/fcntl.c",
-    "Órai file-ok/Gyakorlat2-3/exec.c",
-    "Órai file-ok/Gyakorlat2-3/write.c",
-    "Órai file-ok/Gyakorlat2-3/system.c",
-    "Órai file-ok/Gyakorlat2-3/rand.c",
     "Beadandók.md",
-    "Példa ZH.md",
     "private/C vs C++.md",
     "Tananyagok/bead.md",
     "private/Gyakorlat 4..md",
@@ -231,8 +234,6 @@
     "Órai file-ok/Gyakorlat1-2/Untitled.md",
     "Gyakorlatok/Gyakorlat 1.11.md",
     "quartz/node_modules/vfile-location/node_modules/@types/unist/README.md",
-    "quartz/node_modules/vfile/node_modules/@types/unist/README.md",
-    "quartz/node_modules/unist-util-visit/node_modules/@types/unist/README.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",

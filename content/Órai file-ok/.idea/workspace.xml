@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d88fd9d7-dc75-46db-9902-b9d9756d3427" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Órai file-ok.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/arg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/exec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/file.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/fork.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/libopsys.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/multiple.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/open_fopen.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/ptr_bin.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/strings.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/system.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat1-2/write.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat2-3/directory.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat2-3/fcntl.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat2-3/fcntl_0.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat2-3/libopsys.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gyakorlat2-3/rand.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2c8wpJq9mLLCxb0E7p5YYVAKtqh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "F:/ELTE/DRIVE/OneDrive - Eotvos Lorand Tudomanyegyetem/opsys/content/code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ELTE\DRIVE\OneDrive - Eotvos Lorand Tudomanyegyetem\opsys\content\Órai file-ok\Gyakorlat1-2" />
+      <recent name="F:\ELTE\DRIVE\OneDrive - Eotvos Lorand Tudomanyegyetem\opsys\content\Órai file-ok\Gyakorlat2-3" />
+      <recent name="F:\ELTE\DRIVE\OneDrive - Eotvos Lorand Tudomanyegyetem\opsys\content\Órai file-ok" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d88fd9d7-dc75-46db-9902-b9d9756d3427" name="Changes" comment="" />
+      <created>1707506694985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707506694985</updated>
+      <workItem from="1707506696097" duration="770000" />
+      <workItem from="1707507488249" duration="1193000" />
+      <workItem from="1708251955922" duration="4527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
