@@ -12,6 +12,7 @@
 void use_open_bin(char *fname) {
     printf("\n**********\nUsing open - binary \n****************\n");
     int f = open(fname, O_RDONLY);
+    printf("%i", f);
     if (f < 0) {
         perror("Error at opening the file\n");
         exit(1);

@@ -5,7 +5,7 @@
 #include <unistd.h> //fork
 #include <string.h> //strlen
 #include <fcntl.h> //lock
-#include "libopsys.h"
+#include "../Gyakorlat2-3/libopsys.h"
 
 int main() {
     int f;
