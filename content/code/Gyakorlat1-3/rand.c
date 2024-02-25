@@ -1,4 +1,4 @@
-#include "libopsys.h"
+#include "../Gyakorlat2-3/libopsys.h"
 
 int main() {
 //    srand(

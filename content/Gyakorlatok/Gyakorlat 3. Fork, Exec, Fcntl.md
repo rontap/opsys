@@ -17,16 +17,10 @@ OS/X-en pedig:
 ---
 ## Óra Outline
 
-- [ ] Katalógus, beadandó
+- [ ] /usr/include/**
 - [ ] Új headerek `rand.c` srand!
-- [ ] `fork.c`, Fork bomb, recursive fork
-- [ ] `random`
-- [ ] `write.c` atoi! -> `system.c` -> `exec.c`
+- [ ] BASH `ls ll cd man tail head nano`
+- [ ] flock --verbose -n /tmp/a -c 'cat 2> /tmp/a'
+- [ ] `fcntl_0.c`
 - [ ] `fcntl_0.c`
 - [ ] Fixing `fcntl.c`
-- [ ] _opcionális_ gy2 signal intro 
-
-
-# 🚧 Work in Progress
-
-#TODO

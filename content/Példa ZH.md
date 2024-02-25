@@ -1,19 +1,26 @@
 ## ZH Időpontok
 
-Az első elméleti dolgozat ideje **tavaly**: 2023 május 8, 16 óra (Nappali BSC).   
-A dolgozatot Canvas rendszerben kapott elméleti kérdéssor megválaszolásával lehet teljesíteni .  
-Az elméleti dolgozat(kvíz) 20 kérdésből áll, aminek megválaszolására 20 perc áll rendelkezésre.
-10 helyes választól sikeres a ZH.
+A félév során 2 zárthelyi dolgozatot kell teljesíteni. Az első dolgozat elméleti kérdésekből áll, a második gyakorlati.
 
-A második, gyakorlati dolgozat ideje **tavaly**:: 2023 május 15. 16 óra (Nappali BSC)
-Tanár
-A dolgozat 90 perces.  
-A gyakorlati zárthelyi feladatát a feladatok között lehet majd olvasni, és fájlfeltöltéssel a megoldást feltölteni.
+Az elméleti dolgozat ideje: 2024 április 29, 16.15, 17.15 és május 2, 17.45.
 
-PótZH tervezett időpont:  
-Elméleti PótZH időpont: **tavaly**: 2023 május 22 . 16 óra. Helyszín: Canvas
-Gyakorlati PótZH időpont: **tavaly**: 2023 május 25. 17.45 óra .
+A dolgozatot Canvas rendszerben kapott elméleti kérdéssor megválaszolásával lehet teljesíteni az előadóban!
 
+Az elméleti dolgozat(kvíz) 20 kérdésből áll, aminek megválaszolására 15 perc áll rendelkezésre. 10 helyes választól sikeres a ZH.
+
+A második, gyakorlati dolgozat ideje: 2024 május 6.  16 óra. Hely: Lovi+előadó, május 9. 17.45. Hely: Lovi+előadó
+
+A dolgozat 90 perces.
+
+A gyakorlati zárthelyi feladatát a Canvas feladatok között lehet majd olvasni, és fájlfeltöltéssel a megoldást feltölteni. A gyakorlati zárthelyi helyszíne a Lovarda és az előadó. 
+
+PótZH tervezett időpont:
+
+Elméleti PótZH időpont: 2024  május 16 .  17.45,  Hely: Lovi
+
+Gyakorlati PótZH időpont: 2024 május 16.  18.00 óra . Hely: Lovi
+
+A pótzh-t bárki megírhatja, nem kell jelentkezni, de a pótzh jegye lesz az érvényes jegy.
 ## Példa ZH
 
 Oldja meg az alábbi feladatot C nyelven, ami egy Linux rendszeren tud futni. (Ez lehet a tárgy kiszolgálója (
