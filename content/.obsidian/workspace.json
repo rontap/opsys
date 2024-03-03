@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
+                "file": "Gyakorlatok/Gyakorlat 4..md",
                 "mode": "source",
                 "source": false
               }
@@ -61,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beadandók.md",
+                "file": "Gyakorlatok/Gyakorlat 4..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
+                "file": "Gyakorlatok/Gyakorlat 4..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
+                "file": "Gyakorlatok/Gyakorlat 4..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md"
+                "file": "Gyakorlatok/Gyakorlat 4..md"
               }
             }
           }
@@ -195,31 +196,31 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13d6987313f6b437",
+  "active": "9e4aad29a56ae072",
   "lastOpenFiles": [
-    "code/Gyakorlat1-3/index.zip",
-    "code/Gyakorlat1-3/Gyakorlat1-3.zip",
-    "code/Gyakorlat1-3/index_old.zip",
-    "Példa ZH.md",
-    "code/Gyakorlat1-3/a",
-    "code/Gyakorlat2-3/kill_final.cpp",
-    "code/Gyakorlat2-3/kill_final.c",
-    "code/Gyakorlat2-3/kill.c",
+    "Beadandók.md",
+    "Gyakorlatok/Gyakorlat 4..md",
+    "private/Gyakorlat 5..md",
+    "Gyakorlatok/Gyakorlat 3. Bash, FCNTL, lock, rand.md",
+    "Gyakorlatok/Gyakorlat 2. Pointerek, Fork.md",
     "code/Gyakorlat2-3/sigprocmask.c",
     "code/Gyakorlat2-3/signal.c",
     "code/Gyakorlat2-3/sigaction_value.c",
     "code/Gyakorlat2-3/sigaction_multiple.c",
+    "code/Gyakorlat2-3/sigaction.c",
+    "code/Gyakorlat2-3/setitimer.c",
+    "code/Gyakorlat2-3/killable.c",
+    "code/Gyakorlat2-3/kill_final.cpp",
+    "code/Gyakorlat2-3/kill_final.c",
+    "code/Gyakorlat2-3/kill.c",
+    "Példa ZH.md",
     "index.md",
-    "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
-    "Gyakorlatok/Gyakorlat 2. Pointerek, Fork.md",
     "Kezdőlap.md",
     "Gyakorlatok/Gyakorlat 2. Strings, Open, Fopen, Fork.md",
     "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
     "Headerek.md",
-    "Beadandók.md",
     "private/C vs C++.md",
     "Tananyagok/bead.md",
-    "private/Gyakorlat 4..md",
     "private/Gyakorlat 7..md",
     "private/Gyakorlat 11..md",
     "private/Gyakorlat 6..md",

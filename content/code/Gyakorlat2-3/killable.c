@@ -18,7 +18,7 @@ int main() {
     sigact.sa_handler = handler;
     sigact.sa_flags = 0;
     sigaction(SIGILL, &sigact, NULL);
-    //sigaction(SIGTERM, &sigact, NULL);
+    sigaction(SIGINT, &sigact, NULL);
     sigaction(SIGUSR1, &sigact, NULL);
     sigaction(SIGUSR2, &sigact, NULL);
     sigaction(SIGSEGV, &sigact, NULL);
@@ -26,10 +26,11 @@ int main() {
     sigset_t sigset;
     sigfillset(&sigset);
     sigdelset(&sigset, SIGILL);
-    //sigdelset(&sigset, SIGTERM);
+    sigdelset(&sigset, SIGINT);
     sigdelset(&sigset, SIGUSR1); // !
     sigdelset(&sigset, SIGSEGV);
     sigdelset(&sigset, SIGBUS);
+    sigdelset(&sigset, SIGQUIT);
 
     while (true) {
         printf("[main] process sleeps\n");

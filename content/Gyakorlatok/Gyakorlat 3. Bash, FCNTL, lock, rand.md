@@ -1,6 +1,7 @@
-## [Fileok letöltése](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy1/gy1-opsys.zip)
 
-[https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy01/gy1-opsys.zip](https://github.com/rontap/elteik-web/raw/main/teaching/opsys/materials/gy1/gy1-opsys.zip)
+## [Fileok letöltése](https://github.com/rontap/opsys/raw/main/content/code/Gyakorlat1-3/index.zip)
+
+https://github.com/rontap/opsys/raw/main/content/code/Gyakorlat1-3/index.zip
 
 ## Fileok fordítása
 
