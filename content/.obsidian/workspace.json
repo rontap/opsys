@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 4..md",
+                "file": "Gyakorlatok/Gyakorlat 4. Signal.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
+                "file": "Gyakorlatok/Gyakorlat 5. Pipe, FD.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 4..md",
+                "file": "private/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 4..md",
+                "file": "Gyakorlatok/Gyakorlat 5. Pipe, FD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 4..md",
+                "file": "Gyakorlatok/Gyakorlat 5. Pipe, FD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 4..md"
+                "file": "Gyakorlatok/Gyakorlat 5. Pipe, FD.md"
               }
             }
           }
@@ -196,28 +196,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9e4aad29a56ae072",
+  "active": "557a388c2ebe49b4",
   "lastOpenFiles": [
+    "code/Gyakorlat4-5/a.out",
+    "code/Gyakorlat4-5/pipe.c",
+    "code/Gyakorlat4-5/mkfifo.c",
+    "code/Gyakorlat4-5/libopsys.h",
+    "code/Gyakorlat4-5/sel_pipe.c",
+    "code/Gyakorlat4-5/ppoll_pipe.c",
+    "code/Gyakorlat4-5/poll_pipe.c",
+    "code/Gyakorlat4-5/pipe_0.c",
+    "code/Gyakorlat4-5",
+    "code/Gyakorlat2-3/Gyakorlat4-5",
+    "Pasted image 20240309195120.png",
+    "Gyakorlatok/Gyakorlat 4. Signal.md",
+    "Gyakorlatok/Gyakorlat 5. Pipe, FD.md",
+    "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
+    "Pasted image 20240309193926.png",
+    "Pasted image 20240309191410.png",
+    "Pasted image 20240309191357.png",
+    "private/Untitled.md",
     "Beadandók.md",
-    "Gyakorlatok/Gyakorlat 4..md",
-    "private/Gyakorlat 5..md",
     "Gyakorlatok/Gyakorlat 3. Bash, FCNTL, lock, rand.md",
-    "Gyakorlatok/Gyakorlat 2. Pointerek, Fork.md",
-    "code/Gyakorlat2-3/sigprocmask.c",
-    "code/Gyakorlat2-3/signal.c",
-    "code/Gyakorlat2-3/sigaction_value.c",
-    "code/Gyakorlat2-3/sigaction_multiple.c",
-    "code/Gyakorlat2-3/sigaction.c",
-    "code/Gyakorlat2-3/setitimer.c",
-    "code/Gyakorlat2-3/killable.c",
     "code/Gyakorlat2-3/kill_final.cpp",
-    "code/Gyakorlat2-3/kill_final.c",
-    "code/Gyakorlat2-3/kill.c",
+    "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
+    "Gyakorlatok/Gyakorlat 2. Pointerek, Fork.md",
     "Példa ZH.md",
     "index.md",
     "Kezdőlap.md",
     "Gyakorlatok/Gyakorlat 2. Strings, Open, Fopen, Fork.md",
-    "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
     "Headerek.md",
     "private/C vs C++.md",
     "Tananyagok/bead.md",
@@ -232,17 +239,10 @@
     "Operációs.md",
     "Miért.md",
     "zzResources/Pasted image 20240131222558.jpg",
-    "Órai file-ok/Gyakorlat1-2/Untitled.md",
-    "Gyakorlatok/Gyakorlat 1.11.md",
-    "quartz/node_modules/vfile-location/node_modules/@types/unist/README.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/public/static/og-image.png",
-    "quartz/public/static/icon.png",
-    "quartz/node_modules/psl/browserstack-logo.svg",
-    "quartz/docs/images/quartz transform pipeline.png",
-    "quartz/docs/images/quartz layout.png",
-    "quartz/docs/images/github-quick-setup.png"
+    "quartz/public/static/icon.png"
   ]
 }

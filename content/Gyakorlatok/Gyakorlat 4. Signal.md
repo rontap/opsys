@@ -33,7 +33,12 @@ OS/X-en pedig:
 - `SIGKILL` - nem fedhető
 - `SIGSEGV` - Szegmentációs hiba
 
+
+![[Pasted image 20240309193926.png]]
+Kód lefolyása signal esetén
+
 ### Signal Küldés
+
 
 PID = Process ID, a proessz egyedi azonosítója
 Például a szülő program megölése:
@@ -64,3 +69,4 @@ sigaction(SIGTERM, &sigact, NULL);
 Itt a `SIGTERM` signal nem leálltja az alkalmazást, hanem meghívja a handlert. Miután a handler lefutott, folyik a
 program futása.  
 Vannak signalok, amiket nem lehet 'elkapni', ilyen pl a `SIGKILL`.
+
