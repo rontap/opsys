@@ -1,4 +1,31 @@
 
+# Timerek
+
+interval timer -> set/get itimer
+
+```c
+struct itimerval { 
+	struct timeval it_interval; /* Interval for periodic timer */ 
+	struct timeval it_value; /* Current value (time until next expiration) */ 
+};
+```
+### Timeval (timeinterval)
+```c
+struct timeval { 
+	time_t tv_sec; /* Seconds */
+	 suseconds_t tv_usec; /* Microseconds (long int) */ 
+};
+```
+
+> Kérdés: Milyen idővel kapcsolatos API hívásokat tudunk még? 
+
+```c
+ setitimer(ITIMER_REAL, &timer, NULL); //result = 0, if it is good
+    //when expires, a signal will be sent to the process, and it restarts
+    //1. parameter ITIMER_REAL - real time, ITIMER_VIRTUAL (during process execution)
+```
+
+> Timer fd : nem nézzük
 # Multitasking Bash-ben
 
 új kombináció: `Ctrl+Z`
@@ -18,13 +45,6 @@ Mikor áll készen egy file?
 	- Ha van lehetsőég írni akkor `POLLOUT`
 	- Ha le van zárva az írás illetve olvasási vég: `POLLHUP` ill `POLLERR`
 
-### Timeval (timeinterval)
-```c
-struct timeval { 
-	time_t tv_sec; /* Seconds */
-	 suseconds_t tv_usec; /* Microseconds (long int) */ 
-};
-```
 
 ### Select
 - régebbi API, template-ekkel való kommunikálás, `int select(int nfds, fd_set *readfds, fd_set *writefds, fd_set *exceptfds, struct timeval *timeout);`
