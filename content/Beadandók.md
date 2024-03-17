@@ -1,7 +1,40 @@
 
+# 2024 1. Beadandója
+
+> Beadási határidő: 2024 április 7.
+
+Tavasz van, közeledik a Húsvét. Nyuszi mama is készülődik, mégpedig a kis nyuszi fiúknak gyűjt locsoló versikéket. Ilyen gyöngyszemeket mint például: "Piros tojás zöld-fehér nyuszi, locsolásér jár két puszi!" Persze akad aki akár ezt is, kicsit másképp tudja. Minden módosított változatot amit hall, feljegyez.
+
+Készítsen C nyelvű alkalmazást, ami segít Nyuszi mamának a locsoló versikék feljegyzésében 
+- új verset tudjunk felvenni
+- tudjuk listáztatni a már ismert verseket
+- tudjunk törölni
+- tudjunk módosítani egy meglévő verset. 
+
+A locsoló verseket fájlban tároljuk.
+
+Készítsen C  nyelvű programot ami  ezt a feladatot megoldja egy Linux rendszeren vagy WSL-en fut. A megoldást a beadási határidőt követő héten be kell mutatni a gyakorlatvezetőnek.
+
+A forrásállományokat(egy kód + egy adatfájl) [itt töltsék fel zip formában.](https://canvas.elte.hu/courses/43790/assignments/337099?module_item_id=675787)
+
+> Legkésöbbi beadási idő április 14; de ilyenkor egy jeggyel romlik az év végi jegy. Normál beadási határidő április 7.
+
+
+---
+# Korábbi évek Beadandói
 ## 1. Beadandó
 
-Várható kiadási idő: 4. hét után
+Tavasz van, közeledik a Húsvét. Nyuszi mama is készülődik, mégpedig a kis nyuszi fiúknak gyűjt locsoló versikéket. Ilyen gyöngyszemeket mint például: "Piros tojás zöld-fehér nyuszi, locsolásér jár két puszi!" Persze akad aki akár ezt is, kicsit másképp tudja. Minden módosított változatot amit hall, feljegyez.
+
+Készítsen C nyelvű alkalmazást, ami segít Nyuszi mamának a locsoló versikék feljegyzésében (új verset tudjunk felvenni), tudjuk listáztatni a már ismert verseket, tudjunk törölni ha szükséges és tudjunk módosítani egy meglévő verset. 
+
+A locsoló verseket fájlban tároljuk.
+
+Készítsen C  nyelvű programot ami  ezt a feladatot megoldja, a megoldásnak vagy az opsys.inf.elte.hu kiszolgálón, vagy egy hozzá hasonló Linux rendszeren kell futnia. A megoldást a beadási határidőt követő héten be kell mutatni a gyakorlatvezetőnek.
+
+A forrásállományokat(egy kód + egy adatfájl) itt töltsék fel zip formában.
+
+Beadási határidő: 2024 április 7.
 
 ## 2. Beadandó
 
@@ -36,6 +69,8 @@ munkást,
 amit rendszerint jó terméssel hálál meg. Sok segítőre van szüksége a szőlészetnek, így a munkára jelentkezőknek egy
 alkalmazás készül.
 
+**EZ EGY KORÁBBI BEADANDÓ
+
 Azok jelentkezését várja a gazdaság akik a tavaszi szezon heteiben tudnak munkát vállalni. A jelentkezés során meg kell
 adni a
 nevüket és azt, hogy a hét mely napjain tudnak menni dolgozni. A napokat ilyen formában adják meg: hétfő szerda
@@ -60,6 +95,8 @@ A megoldást a beadási határidőt követő héten be kell mutatni a gyakorlatv
 Az "Igyál komám" szőlészetben is kopogtat a tavasz. Mint tudjuk a szőlő szereti a gondoskodást, a munkát, de leginkább a
 munkást, amit rendszerint jó terméssel hálál meg. Sok segítőre van szüksége a szőlészetnek, így a munkára jelentkezőknek
 egy alkalmazás készül.
+
+**EZ EGY KORÁBBI BEADANDÓ
 
 Azok jelentkezését várja a gazdaság akik a tavaszi szezon heteiben tudnak munkát vállalni. Az adatok rendelkezésre
 állnak, minden módosítást el tudunk végezni.

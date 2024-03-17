@@ -44,4 +44,11 @@ sprintf / write to standard output
 `mkfifo myfifo 
 wc -l < myfifo & 
 ls -l | tee myfifo | sort -k5n
-`
+
+
+## JOBS, FG, BG
+
+Ctrl+Z - background
+
+`(while true; do clear; date; sleep 1; done)
+![[Pasted image 20240311004918.png]]

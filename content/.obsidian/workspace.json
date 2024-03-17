@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9a566e6b78de086c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gyakorlatok/Gyakorlat 6. IO Multiplexelés, select, poll, ppoll.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e910e44b4d4b511",
             "type": "leaf",
             "state": {
@@ -66,9 +78,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b186cd34381f4851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gyakorlatok/Gyakorlat 5. Pipe, FD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83daec8e42a7ed0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 5. Pipe, FD.md",
+                "file": "Gyakorlatok/Gyakorlat 6. IO Multiplexelés, select, poll, ppoll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 5. Pipe, FD.md",
+                "file": "Gyakorlatok/Gyakorlat 6. IO Multiplexelés, select, poll, ppoll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gyakorlatok/Gyakorlat 5. Pipe, FD.md"
+                "file": "Gyakorlatok/Gyakorlat 6. IO Multiplexelés, select, poll, ppoll.md"
               }
             }
           }
@@ -196,8 +228,30 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "557a388c2ebe49b4",
+  "active": "9a566e6b78de086c",
   "lastOpenFiles": [
+    "Pasted image 20240317194636.png",
+    "private/Gyakorlat 7..md",
+    "private/Gyakorlat 8..md",
+    "private/Gyakorlat 9..md",
+    "private/Gyakorlat 6..md",
+    "Beadandók.md",
+    "index.md",
+    "Példa ZH.md",
+    "Gyakorlatok/Gyakorlat 6. IO Multiplexelés, select, poll, ppoll.md",
+    "Pasted image 20240317185308.png",
+    "private/Gyakorlat 10..md",
+    "Headerek.md",
+    "private/Untitled.md",
+    "Gyakorlatok/Gyakorlat 5. Pipe, FD.md",
+    "Pasted image 20240317183024.png",
+    "Gyakorlatok/Gyakorlat 4. Signal.md",
+    "Untitled",
+    "Pasted image 20240311004918.png",
+    "Gyakorlatok/Gyakorlat 3. Bash, FCNTL, lock, rand.md",
+    "Pasted image 20240311002915.png",
+    "Gyakorlatok/Gyakorlat 2. Pointerek, Fork.md",
+    "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
     "code/Gyakorlat4-5/a.out",
     "code/Gyakorlat4-5/pipe.c",
     "code/Gyakorlat4-5/mkfifo.c",
@@ -207,42 +261,20 @@
     "code/Gyakorlat4-5/poll_pipe.c",
     "code/Gyakorlat4-5/pipe_0.c",
     "code/Gyakorlat4-5",
-    "code/Gyakorlat2-3/Gyakorlat4-5",
     "Pasted image 20240309195120.png",
-    "Gyakorlatok/Gyakorlat 4. Signal.md",
-    "Gyakorlatok/Gyakorlat 5. Pipe, FD.md",
-    "Gyakorlatok/Gyakorlat 1. Bevezetés, UNIX, arg.md",
     "Pasted image 20240309193926.png",
     "Pasted image 20240309191410.png",
     "Pasted image 20240309191357.png",
-    "private/Untitled.md",
-    "Beadandók.md",
-    "Gyakorlatok/Gyakorlat 3. Bash, FCNTL, lock, rand.md",
-    "code/Gyakorlat2-3/kill_final.cpp",
     "Gyakorlatok/Gyakorlat 3. Fork, Exec, Fcntl.md",
-    "Gyakorlatok/Gyakorlat 2. Pointerek, Fork.md",
-    "Példa ZH.md",
-    "index.md",
     "Kezdőlap.md",
     "Gyakorlatok/Gyakorlat 2. Strings, Open, Fopen, Fork.md",
-    "Headerek.md",
     "private/C vs C++.md",
     "Tananyagok/bead.md",
-    "private/Gyakorlat 7..md",
     "private/Gyakorlat 11..md",
-    "private/Gyakorlat 6..md",
-    "private/Gyakorlat 8..md",
-    "private/Gyakorlat 9..md",
-    "private/Gyakorlat 10..md",
     "secrets/secr.md",
     "[[Operációs.md",
     "Operációs.md",
-    "Miért.md",
     "zzResources/Pasted image 20240131222558.jpg",
-    "quartz/node_modules/cli-spinner/img/spinner.gif",
-    "quartz/quartz/static/og-image.png",
-    "quartz/quartz/static/icon.png",
-    "quartz/public/static/og-image.png",
-    "quartz/public/static/icon.png"
+    "quartz/node_modules/cli-spinner/img/spinner.gif"
   ]
 }

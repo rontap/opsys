@@ -25,3 +25,8 @@ OS/X-en pedig:
 - [ ] `fcntl_0.c`
 - [ ] `fcntl_0.c`
 - [ ] Fixing `fcntl.c`
+#FileControl 
+
+### Seek
+
+![[Pasted image 20240311002915.png]]

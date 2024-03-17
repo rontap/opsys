@@ -10,6 +10,7 @@ tags:
 
 [Tárgy Honlapja](https://opsys.inf.elte.hu/)
 
+[[Beadandók]] - Első beadandó kiírva!
 ## Adatok
 
 Tárgy neve: Operációs Rendszerek Ea+Gy  
@@ -30,16 +31,17 @@ Az egyes órák anyagát a linkre kattintva lehet megnézni.
 
 1. óra : [[Gyakorlat 1. Bevezetés, UNIX, arg]] 
 2. óra : [[Gyakorlat 2. Pointerek, Fork]]
-3. óra : Fork & Signal
-4. óra : Signal Timer
-5. óra : Sigaction
-6. óra : pipe
-7. óra : Pipe, FIFO
+3. óra : [[Gyakorlat 3. Bash, FCNTL, lock, rand]]
+4. óra : [[Gyakorlat 4. Signal]]
+5. óra : [[Gyakorlat 5. Pipe, FD]]
+6. óra : [[Gyakorlat 6. IO Multiplexelés, select, poll, ppoll]]
+7. óra : ??
+   --- **tavaszi szünet** ---
 8. óra : Message Queue
 9. óra : Ismétlés
-10. óra : Shared Memory, Szemafor _!! Rákövetkező héten hétfőn Elméleti ZH_
-11. óra : Szemafor _!! Rákövetkező héten hétfőn Gyakorlati ZH_
-12. óra : Konzultáció, ZH átnézés, lezárás
+10. óra : Shared Memory, Szemafor 
+11. óra : Szemafor _!! Aznap hétfőn Elméleti ZH_
+12. óra : Példa ZH megoldás _!! Aznap hétfőn Gyakorlati ZH_
 13. óra : _nincs megtartva_
 
 ## Letöltések
