@@ -1,0 +1,13 @@
+a.out
+a.txt
+index.zip
+libopsys.h
+mkfifo.c
+pipe_0.c
+pipe.c
+poll_pipe.c
+ppoll_pipe.c
+sel_pipe.c
+setitimer.c
+sigaction_multiple.c
+sigaction_value.c
