@@ -35,10 +35,10 @@ Az egyes órák anyagát a linkre kattintva lehet megnézni.
 4. óra : [[Gyakorlat 4. Signal]]
 5. óra : [[Gyakorlat 5. Pipe, FD]]
 6. óra : [[Gyakorlat 6. IO Multiplexelés, select, poll, ppoll]]
-7. óra : ??
+7. óra : [[Gyakorlat 7-8. Feladat. Rock Paper Scissors]]
    --- **tavaszi szünet** ---
-8. óra : Message Queue
-9. óra : Ismétlés
+8. óra : [[Gyakorlat 7-8. Feladat. Rock Paper Scissors]]
+9. óra : Message Queue
 10. óra : Shared Memory, Szemafor 
 11. óra : Szemafor _!! Aznap hétfőn Elméleti ZH_
 12. óra : Példa ZH megoldás _!! Aznap hétfőn Gyakorlati ZH_
