@@ -8,6 +8,8 @@ void handler(int signal) {
 }
 
 int main() {
+    printf("[player %i]\n", getpid());
+
     // TODO 1a: set up a random generator using `srand`. Look up `man srand`
     // This will let you generate random numbers
 
