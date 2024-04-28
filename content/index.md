@@ -38,9 +38,9 @@ Az egyes órák anyagát a linkre kattintva lehet megnézni.
 7. óra : [[Gyakorlat 7-8. Feladat. Rock Paper Scissors]]
    --- **tavaszi szünet** ---
 8. óra : [[Gyakorlat 7-8. Feladat. Rock Paper Scissors]]
-9. óra : Message Queue
-10. óra : Shared Memory, Szemafor 
-11. óra : Szemafor _!! Aznap hétfőn Elméleti ZH_
+9. óra : [[Gyakorlat 9. Message Queue (S-V, Posix)]]
+10. óra : [[Gyakorlat 10. Shared Memory]]
+11. óra : [[Gyakorlat 11. Szemafor]] _!! Aznap hétfőn Elméleti ZH_
 12. óra : Példa ZH megoldás _!! Aznap hétfőn Gyakorlati ZH_
 13. óra : _nincs megtartva_
 

@@ -22,7 +22,37 @@ A forrásállományokat(egy kód + egy adatfájl) [itt töltsék fel zip formáb
 
 ## 2. Beadandó
 
-Várható kiadási idő: Április 14 után.
+
+Illés Tanárúr kiírta a második beadandót, beadási 
+határideje Május 5. (illetve május 12 a végső határidő, 
+egy jegy büntetéssel). 
+Itt van a bővített leírása: 
+Tavasz van, közeledik a Húsvét. 
+Nyuszi mama is készült, mégpedig a kis nyuszi fiúknak gyűjtött locsoló versikéket. 
+A Nyuszi Húsvét javában tart, a fiúk locsolni készülnek. fork: 
+Nyuszi mama _(szülő / parent)_ a locsoló versikéket fájlban tárolja. 
+Miközben ha új verset hall, azt továbbra is feljegyzi, esetleg módosítja, 
+de a 4 nyuszi kisfia közül kiválasztja _(véletlenszám)_ a legrátermettebbet _(gyerek / child)_
+ és elküldi locsolni a Barátfai nyuszi család lánytagjainak locsolására. 
+Ez a Locsolás lehetőség jelenjen meg új menüpontként a korábbiak mellett. 
+
+**signal és pipe: **
+Mikor a nyuszi fiú megérkezik Barátfára küld egy jelzést _(signal)_ a mamának, 
+aki erre válaszul 2 versikét is küld csövön _(pipe)_ keresztül a fiúnak. 
+Ezeket a verseket a fiú képernyőre írja, majd választ egyet _(véletlenszám)_.
+
+** message queue: ** 
+A kiválasztott verset üzenetsoron _(message queue)_ visszaküldi a mamának. 
+(Később ezt a verset már ne használják fel, tehát törlődik) 
+Ezután nyuszi fiú elmondja Barátfán a verset 
+(képernyőre írja, majd hozzá teszi: Szabad-e locsolni! 
+Majd meglocsolja a lányokat és hazatér Nyuszi mamához. _(terminál)_ 
+Készítsen C nyelvű programot ami ezt a feladatot megoldja, 
+a megoldásnak WSL-en, vagy az opsys.inf.elte.hu kiszolgálón, 
+vagy egy hozzá hasonló Linux rendszeren kell futnia. 
+A megoldást a beadási határidőt követő héten be kell mutatni a gyakorlatvezetőnek. 
+
+A forrásállományokat(egy kód + egy adatfájl) canvasban töltsétek fel.
 
 # Értékelés
 
